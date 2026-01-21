@@ -3,9 +3,11 @@
 A simple command-line Hangman game written in Java.
 
 This game runs inside the terminal, It was made as a way for me to practise Java fundamentals like basic project structure and compiling java programs from the CLI
-<img src="images/1.png" width="300">
+
 <br>
-<img src="images/2.png" width="300">
+<img src="images/1.png" width="200" alt="Screenshot of game">
+<br>
+<img src="images/2.png" width="200" alt="Screenshot 2 of game">
 
 
 ## Requirements
